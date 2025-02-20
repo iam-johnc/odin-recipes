@@ -7,3 +7,7 @@ v1.0.0:
 - Created Recipes folder
 - Created Taco Pizza Recipe page
 - Add Taco Pizza image and linked in the Taco Pizza Recipe page
+
+v1.0.1:
+- Updated broken link which caused a 404 error when navigating to the Taco Pizza Recipe page
+- Added .gitignore file to the root of the project to prevent the DS Store file from indexing the project
