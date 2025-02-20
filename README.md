@@ -2,6 +2,8 @@
 
 This project is a collection of recipes as an assignment for The Odin Project to demonstrate the use of HTML.
 
+This project is viewable as a live website at https://iam-johnc.github.io/odin-recipes/
+
 v1.0.0:
 - Created Homepage
 - Created Recipes folder
@@ -21,3 +23,6 @@ v1.0.2:
 
 v1.0.3:
 - Added a list of recipes to the index.html file to replace existing links so they are in list format
+
+v1.0.4:
+- Added a link to the Readme.md file that points to the live site via GitHub Pages
