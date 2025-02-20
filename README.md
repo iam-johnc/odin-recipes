@@ -11,3 +11,10 @@ v1.0.0:
 v1.0.1:
 - Updated broken link which caused a 404 error when navigating to the Taco Pizza Recipe page
 - Added .gitignore file to the root of the project to prevent the DS Store file from indexing the project
+
+v1.0.2:
+- Added Garlic Ramen Recipe page
+- Added Tortilla Soup Recipe page
+- Added images for Garlic Ramen and Tortilla Soup Recipes
+- Updated page titles for each recipe
+- Updated the index.html file to include links to the new recipe pages
