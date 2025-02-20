@@ -18,3 +18,6 @@ v1.0.2:
 - Added images for Garlic Ramen and Tortilla Soup Recipes
 - Updated page titles for each recipe
 - Updated the index.html file to include links to the new recipe pages
+
+v1.0.3:
+- Added a list of recipes to the index.html file to replace existing links so they are in list format
